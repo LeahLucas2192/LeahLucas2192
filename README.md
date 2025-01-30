@@ -1,5 +1,12 @@
 # ⭐️ hi welcome ⭐️
 
+Hey there! 👋 I'm **Leah Lucas**, a passionate **Software Engineer and Full Stack Web Developer** who loves creating user-friendly, scalable applications. With experience in **Java, Python, cloud technologies, and modern frameworks**, I specialize in building responsive web solutions, optimizing performance, and working with cross-functional teams.  
+
+🌟 **Check out my work & connect with me!**  
+🔗 **Portfolio:** [leahlucas2192.github.io/curly-sniffle](http://leahlucas2192.github.io/curly-sniffle)  
+💼 **LinkedIn:** [linkedin.com/in/leahlucas377](http://linkedin.com/in/leahlucas377)  
+🐙 **GitHub:** [github.com/LeahLucas2192](http://github.com/LeahLucas2192)  
+
 <p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=LeahLucas2192&show_icons=true&locale=en&theme=tokyonight" alt="LeahLucas2192" /></p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️
